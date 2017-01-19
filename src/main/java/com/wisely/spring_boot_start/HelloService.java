@@ -7,7 +7,7 @@ public class HelloService {
     private String msg;
 
     public String sayHi() {
-        return "hihihi" + msg;
+        return "hihihi: " + msg;
     }
 
     public String getMsg() {
