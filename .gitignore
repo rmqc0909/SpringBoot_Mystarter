@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+SpringBoot_Mystarter.iml
+target/
+.mvn/
+mvnw
+mvnw.cmd
+src/main/resources/static/
+src/main/resources/templates/
+Test_Mystarter/.mvn/
+Test_Mystarter/mvnw
+Test_Mystarter/mvnw.cmd
+Test_Mystarter/src/main/resources/static/
+Test_Mystarter/src/main/resources/templates/
